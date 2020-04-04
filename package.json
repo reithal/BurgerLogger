@@ -26,6 +26,7 @@
   "homepage": "https://github.com/reithal/BurgerLogger#readme",
   "dependencies": {
     "express": "^4.17.1",
+    "express-handlebars": "^4.0.2",
     "mysql": "^2.18.1"
   }
 }
