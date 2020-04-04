@@ -18,8 +18,6 @@ The user can enter the name of a new burger. A button is provided that switches 
   ​
 - [License](#license)
   ​
-- [Contributing](#contributing)
-  ​
 - [Questions](#questions)
 
 ## Installation
@@ -34,7 +32,8 @@ The application will be invoked with the following command:
 
 node server.js
 
-The user will be prompted with a series of options to perform their task. Some options will prompt for additional information such as adding a new role, employeem, etc.
+You can use a demo of the application here: ![DEMO](https://banana-surprise-94301.herokuapp.com/)
+
 
 
 ## License
@@ -43,4 +42,4 @@ This project uses the MIT license.
 
 ## Questions
 
-If you have any issues or discover a problem please report it at ![Issues](https://github.com/reithal/EmployeeTracker/issues)
+If you have any issues or discover a problem please report it at ![Issues](https://github.com/reithal/BurgerLogger/issues)
